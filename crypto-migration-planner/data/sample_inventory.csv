@@ -1,0 +1,4 @@
+asset_id,system,algorithm,purpose,key_size_bits
+demo-001,example-auth,RSA-3072,TLS certificate,3072
+demo-002,example-storage,AES-256,data encryption,256
+demo-003,example-integration,VendorCipherV4,unknown vendor use,
